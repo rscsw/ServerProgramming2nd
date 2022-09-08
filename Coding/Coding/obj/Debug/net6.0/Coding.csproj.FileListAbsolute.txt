@@ -1,0 +1,15 @@
+D:\VR20222\ServerProgramming\Coding\Coding\bin\Debug\net6.0\Coding.exe
+D:\VR20222\ServerProgramming\Coding\Coding\bin\Debug\net6.0\Coding.deps.json
+D:\VR20222\ServerProgramming\Coding\Coding\bin\Debug\net6.0\Coding.runtimeconfig.json
+D:\VR20222\ServerProgramming\Coding\Coding\bin\Debug\net6.0\Coding.dll
+D:\VR20222\ServerProgramming\Coding\Coding\bin\Debug\net6.0\Coding.pdb
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.csproj.AssemblyReference.cache
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.GeneratedMSBuildEditorConfig.editorconfig
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.AssemblyInfoInputs.cache
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.AssemblyInfo.cs
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.csproj.CoreCompileInputs.cache
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.dll
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\refint\Coding.dll
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.pdb
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\Coding.genruntimeconfig.cache
+D:\VR20222\ServerProgramming\Coding\Coding\obj\Debug\net6.0\ref\Coding.dll
