@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VR20222\\ServerProgramming\\Coding\\Coding\\Coding.csproj",
-      "projectName": "Coding",
-      "projectPath": "D:\\VR20222\\ServerProgramming\\Coding\\Coding\\Coding.csproj",
+      "projectUniqueName": "D:\\VR20222\\ServerProgramming\\Coding\\Coding\\Coding_CS.csproj",
+      "projectName": "Coding_CS",
+      "projectPath": "D:\\VR20222\\ServerProgramming\\Coding\\Coding\\Coding_CS.csproj",
       "packagesPath": "C:\\Users\\choisw\\.nuget\\packages\\",
       "outputPath": "D:\\VR20222\\ServerProgramming\\Coding\\Coding\\obj\\",
       "projectStyle": "PackageReference",
