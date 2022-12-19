@@ -58,13 +58,13 @@ int repeatnum = 6;
 
 //실행하고 싶은 문제를 이곳에 입력하세요
 
-//Test1();
-//Test2();
-//Test3();
-//Test4();
-//Test5();
-//Test6();
-//Test7();
+Test1();
+Test2();
+Test3();
+Test4();
+Test5();
+Test6();
+Test7();
 Console.Write("\n\n");
 while (true)
 {
